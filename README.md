@@ -6,10 +6,10 @@
 
 ## 🔄 Flujo de Trabajo y Pull Requests
 
-Para asegurar la calidad del código y mantener una colaboración ordenada entre todos los integrantes del equipo, adoptamos una estrategia basada en ramas y **Pull Requests (PRs)**:
+Para asegurar la calidad del código y mantener una colaboración ordenada entre todos los integrantes del equipo, adoptamos una estrategia basada en ramas y **Pull Requests**:
 
 1. **Ramas por Funcionalidad:** Ningún integrante programa directamente sobre la rama principal (`main`). Cada nueva funcionalidad o corrección se desarrolla en una rama independiente (por ejemplo, `feature/alertas-desvios` o `feature/integracion-sube`).
-2. **Revisión de Código (Code Review):** Una vez finalizada la tarea, el desarrollador abre un *Pull Request* hacia la rama de desarrollo o producción. 
+2. **Revisión de Código:** Una vez finalizada la tarea, el desarrollador abre un *Pull Request* hacia la rama de desarrollo o producción. 
 3. **Aprobación:** Otro miembro del equipo revisa los cambios, verifica que cumpla con los estándares y aprueba el PR antes de que el código sea integrado oficialmente. Esto nos permite detectar errores de manera temprana y mantenernos comunicados.
 
 ---
